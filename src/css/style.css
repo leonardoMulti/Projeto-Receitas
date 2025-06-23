@@ -1,0 +1,21 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  list-style: none;
+}
+
+h1,
+p {
+  text-align: center;
+  margin: 30px 0px;
+}
+
+div {
+  margin: auto;
+  width: 150px;
+  border: 3px solid black;
+  border-radius: 5px;
+  text-align: center;
+}
